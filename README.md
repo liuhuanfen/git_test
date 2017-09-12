@@ -43,3 +43,25 @@
 ![image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505210067611&di=3f491496cf490030324801ea0442d4b5&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201507%2F15%2F20150715092754_aZFdW.jpeg) 
 
 
+```js
+function show(){
+
+}
+```
+```html
+<p>样式
+    <a href="https://baidu.com">链接</a>
+
+
+
+</p>
+html```
+
+
+内联的代码`alert('hello world')`内联的代码
+
+
+header 1 |  header 2 | header 3
+--- | ---
+row 1 col 1 | row1 col 2
+row 2 col 1 | row2 col 2
